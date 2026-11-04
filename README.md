@@ -3,7 +3,7 @@
 AppKit-/Storyboard-Projekt, macOS 10.13+. Keine SwiftUI-Abhängigkeit.
 
 
-![Owon Image](https://raw.githubusercontent.com/frcocoatst/HPIViewer-V2/main/overview.png)
+![HPIViewer-V2 Image](https://raw.githubusercontent.com/frcocoatst/HPIViewer-V2/main/overview_hpi.png)
 
 
 ## Funktionen

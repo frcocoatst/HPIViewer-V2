@@ -2,6 +2,10 @@
 
 AppKit-/Storyboard-Projekt, macOS 10.13+. Keine SwiftUI-Abhängigkeit.
 
+
+![Owon Image](https://raw.githubusercontent.com/frcocoatst/HPIViewer-V2/main/overview.png)
+
+
 ## Funktionen
 - **File → Open… (⌘O)**: Einzelne HPI-Datei laden.
 - **File → Save… (⌘S)**: transparentes PNG exportieren.

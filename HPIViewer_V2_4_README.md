@@ -62,11 +62,9 @@ Werden mehrere HPI-Dateien gemeinsam auf das Fenster gezogen, startet ebenfalls 
 | Transparent Preview | Linke Bildansicht umschalten |
 | Cancel Batch / Abbrechen | Laufende Stapelverarbeitung kontrolliert stoppen |
 
-## 7. Beispiel und Test
 
-Im Projektordner `demo` liegt die Beispieldatei `50thann4.hpi`. Öffne sie zunächst einzeln, schalte die transparente Vorschau um und exportiere eine PNG-Datei. Teste anschließend den Batch-Vorgang mit einem Ordner, der mehrere `.hpi`-Dateien enthält, und prüfe, ob die Fortschrittsanzeige bei normalem Abschluss 100 % erreicht.
 
-## 8. Technische Hinweise für die Weiterentwicklung
+## 7. Technische Hinweise für die Weiterentwicklung
 
 - Die Benutzeroberfläche wird im **Interface Builder** gepflegt; die Bildansichten, Checkbox, Statusanzeige, Fortschrittsleiste und Abbrechen-Schaltfläche sind per Outlets/Actions verbunden.
 - Die Batch-Konvertierung läuft im Hintergrund, Status- und Fortschrittsanzeigen werden auf dem Main Thread aktualisiert.
